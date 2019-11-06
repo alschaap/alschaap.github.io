@@ -368,8 +368,8 @@ h1.post-title {
 }
 
 .lab-photo {
-    margin-left: calc(-100vw / 2 + (800px - (30px * 2)) / 2);
-    margin-right: calc(-100vw / 2 + (800px - (30px * 2)) / 2);
+    margin-left: calc(-100vw / 2 + (80px - (30px * 2)) / 2);
+    margin-right: calc(-100vw / 2 + (80px - (30px * 2)) / 2);
     margin-bottom: 1em;
 }
 
@@ -382,5 +382,5 @@ h1.post-title {
 }
 
 .lab-photo img {
-    border-radius: 3em;
+    border-radius: 0em;
 }
