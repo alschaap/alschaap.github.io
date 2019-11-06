@@ -34,18 +34,18 @@ rank: 1
 </div>
 
 
-## Student Projects
+## **Student Projects**
 
 ###  **Title:** Benchmarking neoepitope predictions methods
 
 
-#### **Aim:** The aim of this project is to
+#### **Aim:** The aim of this project is to 
 
 
 #### **Impact:**
 
 
-###**Title:** Benchmarking embedding
+### **Title:** Benchmarking embedding
 
  **Aim:** The aim of this project is to
 
