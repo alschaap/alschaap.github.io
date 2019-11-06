@@ -8,9 +8,8 @@
 
 - name: Benchmarking neoepitope predictions methods
   description: >
-    ```
-    **AIM:** The aim of this project is to
-    ```
+    AIM: The aim of this project is to
+
   photo: projects/dhitsig.png
 
 - name: Benchmarking embedding
