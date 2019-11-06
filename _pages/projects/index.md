@@ -37,8 +37,7 @@ rank: 1
 
 ### Title:
 
-####  Title:
-Benchmarking neoepitope predictions methods
+####  Title: Benchmarking neoepitope predictions methods
 
 
 **Aim:**
