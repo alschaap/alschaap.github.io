@@ -24,9 +24,6 @@ rank: 6
             {% if student_projects.assignees %}
                 <p><b>Assignees: </b>{{ student_projects.assignees }}</p>
             {% endif %}
-            {% if project.supervisor %}
-                <p><b>Supervisor: </b>{{ student_projects.supervisor }}</p>
-            {% endif %}
             <p>{{ student_projects.description }}</p>
         </li>
     {% endif %}
