@@ -7,7 +7,7 @@ rank: 2
 ---
 
 <div style="margin-bottom: 2em;">
-    <img src="{{ 'team/TCRpMHC_dissipated.png' | width=10| prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img src="{{ 'team/TCR_reshape_10_10.png' | width=10| prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
 <div class="lab-wrapper">
