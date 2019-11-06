@@ -39,3 +39,15 @@ rank: 1
 
 
 **Aim:** The aim of this project is to
+
+
+**Impact**
+
+
+**Title:** Benchmarking embedding
+
+
+**Title:** Benchmarking partitioning methods
+
+
+**Title:** The role and effects of partitioning

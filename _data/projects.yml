@@ -6,23 +6,8 @@
   assignees: XXX
   photo: projects/dhitsig.png
 
-- name: Benchmarking neoepitope predictions methods
+- name: Neoepitope Prediction
   description: >
-    AIM: The aim of this project is to
+    Combining Deep Learning and Immunology to create a Neoepitope predictor to improve immunotherapy
 
-  photo: projects/dhitsig.png
-
-- name: Benchmarking embedding
-  description: >
-    ZZZ
-  photo: projects/dhitsig.png
-
-- name: Benchmarking partitioning methods
-  description: >
-    ZZZ
-  photo: projects/dhitsig.png
-
-- name: The role and effects of partitioning
-  description: >
-    ZZZ
   photo: projects/dhitsig.png
