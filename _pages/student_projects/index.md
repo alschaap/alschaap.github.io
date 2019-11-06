@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Student-projects
+permalink: /student_projects/
 toggle: on
-rank: 4
+rank: 9
 ---
 
 ### Student Projects
