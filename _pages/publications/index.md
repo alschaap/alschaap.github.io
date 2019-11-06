@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 toggle: on
-rank: 6
+rank: 4
 ---
 \*Authors contributed equally<br>
 
@@ -12,7 +12,7 @@ Members of the Morin laboratory indicated in **boldface**
 ## 2019
 [**Coding and non-coding drivers of mantle cell lymphoma identified through exome and genome sequencing**](https://www.biorxiv.org/content/10.1101/686956v1)
 
-**Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**.  bioRxiv preprint.
+**Prasath Pararajalingam**, **Krysta M. Coyle**, **Sarah E. Arthur**, **Nicole Thomas**, **Miguel Alcaide**, Barbara Meissner, Merrill Boyle, **Bruno M. Grande**, Graham Slack, Andrew J. Mungall, Randy D. Gascoyne, Christian Steidl, Joseph Connors, Diego Villa, Marco A. Marra, Nathalie Johnson, David W. Scott, and **Ryan D. Morin**.  bioRxiv preprint. 
 
 [**Ultrasensitive Detection of Circulating Tumor DNA in Lymphoma via Targeted Hybridization Capture and Deep Sequencing of Barcoded Libraries**](https://link.springer.com/protocol/10.1007%2F978-1-4939-9151-8_20)
 
@@ -35,7 +35,7 @@ Members of the Morin laboratory indicated in **boldface**
 
 [**The Double-Hit Gene Expression Signature Defines a Clinically and Biologically Distinct Subgroup within GCB-DLBCL**](http://ascopubs.org/doi/abs/10.1200/jco.18.01583)<br>
 Ennishi D\*, **Jiang A**\*, Boyle M, Collinge B, **Grande BM**, Ben-Neriah S, **Rushton C**, **Tang J**, **Thomas N**, Slack GW, Farinha P, Takata K, Miyata-Takata T, Craig J, Mottok A, Meissner B, Saberi S, Bashashati A, Villa D, Savage KJ, Sehn LH, Kridel R, Mungall AJ, Marra MA, Shah SP, Steidl C, Connors JM, Gascoyne RD, **Morin RD**\*, and **Scott DW**\*. <br>
-Journal of Clinical Oncology. December 3, 2018.
+Journal of Clinical Oncology. December 3, 2018. 
 
 [**Genome-wide discovery of somatic regulatory variants in diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/30275490)
 <br>
@@ -53,14 +53,14 @@ Methods Mol Biol. 2018;1768:275-301. doi: 10.1007/978-1-4939-7778-9\_16.
 <br>
 Wever CM, Geoffrion D, **Grande BM**, **Yu S**, **Alcaide M**, Lemaire M, Riazalhosseini Y, Hébert J, Gavino C, Vinh DC, Petrogiannis-Haliotis T, Dmitrienko S, Mann KK, **Morin RD**\*, Johnson NA\*.
 <br>
-Leuk Lymphoma. 2018 Sep;59(9):2159-2174. doi: 10.1080/10428194.2017.1413186.
+Leuk Lymphoma. 2018 Sep;59(9):2159-2174. doi: 10.1080/10428194.2017.1413186. 
 
 
 ## 2017
 
 [**Targeted Error-Suppressed Detection of Circulating Paternal DNA to Establish a Diagnosis of Gestational Trophoblastic Neoplasm**](http://ascopubs.org/doi/abs/10.1200/PO.17.00154)<br>
 Jean-Michel Lavoie, **Miguel Alcaide**, Rosemary A. Fisher, Michael J. Seckl, **Ryan Morin**, and Anna V. Tinker<br>
-JCO Precision Oncology 2017 :1, 1-6
+JCO Precision Oncology 2017 :1, 1-6 
 
 [**Targeted error-suppressed quantification of circulating tumor DNA using semi-degenerate barcoded adapters and biotinylated baits.**](https://www.ncbi.nlm.nih.gov/pubmed/28874686)
 <br>
@@ -93,25 +93,25 @@ Gigascience. 2017 May 1;6(5):1-13. doi: 10.1093/gigascience/gix015.
 <br>
 **Alcaide M**, **Yu S**, **Bushell K**, **Fornika D**, Nielsen JS, Nelson BH, Mann KK, Assouline S, Johnson NA, **Morin RD**.
 <br>
-Clin Chem. 2016 Sep;62(9):1238-47. doi: 10.1373/clinchem.2016.255315.
+Clin Chem. 2016 Sep;62(9):1238-47. doi: 10.1373/clinchem.2016.255315. 
 
 [**Cell-free DNA (cfDNA): Clinical Significance and Utility in Cancer Shaped By Emerging Technologies.**](https://www.ncbi.nlm.nih.gov/pubmed/27422709)
 <br>
 Volik S, **Alcaide M**, **Morin RD**, Collins C.
 <br>
-Mol Cancer Res. 2016 Oct;14(10):898-908.
+Mol Cancer Res. 2016 Oct;14(10):898-908. 
 
 [**Phase 2 study of panobinostat with or without rituximab in relapsed diffuse large B-cell lymphoma.**](https://www.ncbi.nlm.nih.gov/pubmed/27166360)
 <br>
 Assouline SE, Nielsen TH, **Yu S**, **Alcaide M**, **Chong L**, MacDonald D, Tosikyan A, Kukreti V, Kezouh A, Petrogiannis-Haliotis T, **Albuquerque M**, **Fornika D**, **Alamouti S**, Froment R, Greenwood CM, Oros KK, Camglioglu E, Sharma A, Christodoulopoulos R, Rousseau C, Johnson N, Crump M, **Morin RD**\*, Mann KK\*.
 <br>
-Blood. 2016 Jul 14;128(2):185-94. doi: 10.1182/blood-2016-02-699520.
+Blood. 2016 Jul 14;128(2):185-94. doi: 10.1182/blood-2016-02-699520. 
 
 [**Genetic Landscapes of Relapsed and Refractory Diffuse Large B-Cell Lymphomas.**](https://www.ncbi.nlm.nih.gov/pubmed/26647218)
 <br>
 **Morin RD**, Assouline S, **Alcaide M**, **Mohajeri A**, **Johnston RL**, **Chong L**, **Grewal J**, **Yu S**, **Fornika D**, **Bushell K**, Nielsen TH, Petrogiannis-Haliotis T, Crump M, Tosikyan A, **Grande BM**, MacDonald D, Rousseau C, Bayat M, Sesques P, Froment R, **Albuquerque M**, Monczak Y, Oros KK, Greenwood C, Riazalhosseini Y, Arseneault M, Camlioglu E, Constantin A, Pan-Hammarstrom Q, Peng R, Mann KK, Johnson NA.
 <br>
-Clin Cancer Res. 2016 May 1;22(9):2290-300. doi: 10.1158/1078-0432.CCR-15-2123.
+Clin Cancer Res. 2016 May 1;22(9):2290-300. doi: 10.1158/1078-0432.CCR-15-2123. 
 
 
 ## 2015
@@ -120,4 +120,4 @@ Clin Cancer Res. 2016 May 1;22(9):2290-300. doi: 10.1158/1078-0432.CCR-15-2123.
 <br>
 **Bushell KR**, **Kim Y**, Chan FC, Ben-Neriah S, **Jenks A**, **Alcaide M**, **Fornika D**, **Grande BM**, **Arthur S**, Gascoyne RD, Steidl C, **Morin RD**.
 <br>
-Blood. 2015 Feb 5;125(6):999-1005. doi: 10.1182/blood-2014-10-602714.
+Blood. 2015 Feb 5;125(6):999-1005. doi: 10.1182/blood-2014-10-602714. 
