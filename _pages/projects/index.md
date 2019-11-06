@@ -6,7 +6,7 @@ toggle: on
 rank: 1
 ---
 
-## Student Projects
+
 
 <div class="lab-wrapper">
     <ul class="lab-list">
@@ -32,3 +32,5 @@ rank: 1
     {% endfor %}
     </ul>
 </div>
+
+### Student Projects
