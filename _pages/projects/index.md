@@ -6,6 +6,8 @@ toggle: on
 rank: 1
 ---
 
+## Student Projects
+
 <div class="lab-wrapper">
     <ul class="lab-list">
     {% for project in site.data.projects %}
