@@ -35,9 +35,11 @@ rank: 1
 
 # Student Projects
 
-### Title:
+## Student Projects
 
-##  **Title:** Benchmarking neoepitope predictions methods
+## Title:
+
+###  **Title:** Benchmarking neoepitope predictions methods
 
 
 **Aim:**
