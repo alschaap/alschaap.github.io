@@ -1,1 +1,25 @@
-theme: jekyll-theme-hacker
+# Site settings
+title: AI for Immunological Molecules - Marcatili laboratory at Technical University of Denmark
+lab_name: AIM Laboratory
+author: >
+  AIM lab
+institution: DTU
+email: pamar@dtu.dk
+description: >
+ The AIM (AI for Immunological Molecules) Laboratory develops state-of-the-art tools for predicting immunogenicity 
+ by combining immunological data, deep learning, and molecular simulations. 
+baseurl: ""
+url: "https://marcatililab.github.io"
+#twitter_username: morinryan
+github_username:  marcatililab
+images_dir: "/images/"
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+permalink: /:title/
+
+#plugins for search engine optimization
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

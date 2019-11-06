@@ -1,0 +1,33 @@
+- name: Paolo Marcatili, PhD
+  is_pi: True
+  is_current: True
+  position: Associate Professor
+  orcid:  https://orcid.org/0000-0003-2615-5695
+  scholar: https://scholar.google.ca/citations?user=PA02gIYAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Paolo_Marcatili
+  github: https://github.com/marcatililab
+#  twitter: https://twitter.com/morinryan
+  bio: >
+   I am aa bioinformatician and computational biologist with an extensive expertise in the following areas:
+   - Structural Bioinformatics
+   - Machine Learning
+   - Immunological Bioinformatics 
+   - Immunotherapy
+
+   I have a background in programming, robotics, control and systems theory, and a deep understanding of biology and immunology.
+   I am  excited by anything that  combines 2 or more of the following things\: immunology, machine learning, protein structure prediction, obscure avantgard art, fancy cocktails. Probably not in this order.
+
+  photo: team/paolo_2019.gif
+
+
+
+- name: XXX
+  is_pi: False
+  is_current: True
+  position: Research Associate
+  researchgate: XXX
+  scholar: XXX
+  bio: >
+    XXX
+  photo: team/xxx
+

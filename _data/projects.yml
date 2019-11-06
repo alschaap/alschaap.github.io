@@ -1,0 +1,21 @@
+- name: XXX
+  description: >
+    ZZZ
+  funding: KKK
+  collaborators: XXX
+  assignees: XXX
+  photo: projects/dhitsig.png
+
+title: Student Projects
+
+- name: Benchmarking neoepitope predictions methods
+  description: >
+    ZZZ
+  assignees: XXX
+  photo: projects/dhitsig.png
+
+- name: Benchmarking neoepitope predictions methods
+    description: >
+      ZZZ
+    assignees: XXX
+    photo: projects/dhitsig.png
