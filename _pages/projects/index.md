@@ -33,28 +33,22 @@ rank: 1
     </ul>
 </div>
 
-# Student Projects
-
-# Current Projects
 
 ## Student Projects
-
-## Title:
 
 ###  **Title:** Benchmarking neoepitope predictions methods
 
 
-**Aim:**
-The aim of this project is to
+**Aim:** The aim of this project is to
 
 
-**Impact**
+**Impact:**
 
 
-**Title:** Benchmarking embedding
+### **Title:** Benchmarking embedding
 
 
-**Title:** Benchmarking partitioning methods
+### **Title:** Benchmarking partitioning methods
 
 
-**Title:** The role and effects of partitioning
+### **Title:** The role and effects of partitioning
