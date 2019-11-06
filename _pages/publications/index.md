@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-toggle: off
+toggle: on
 rank: 8
 ---
 \*Authors contributed equally<br>
