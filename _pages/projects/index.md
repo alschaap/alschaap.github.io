@@ -36,7 +36,9 @@ rank: 1
 
 ## **Student Projects**
 
-###  **Title:** Benchmarking neoepitope predictions methods
+###  **Title:** Deep Learning
+
+###  **Title:** Benchmarking neoepitope prediction methods
 
 
 #### **Aim:** The aim of this project is to
@@ -45,7 +47,7 @@ rank: 1
 #### **Impact:**
 
 
-### **Title:** Benchmarking embedding
+### **Title:** Embedding the immune system
 
  **Aim:** The aim of this project is to
 
@@ -53,11 +55,13 @@ rank: 1
 **Impact:**
 
 
-### **Title:** Benchmarking partitioning methods
+### **Title:** The role and effects of partitioning
 
 #### **Aim:** The aim of this project is to identify which partitioning method is the most meaningful for data redundancy and least computationally expensive to obtain the best possible predictions when using Deep Learning.
 
 In sequence analysis, clustering is used to group homologous sequences into gene or protein families.
+#### **The project:** The student will be
 
 
-### **Title:** The role and effects of partitioning
+#### **Aim:**  
+Many partitioning methods currently exist, however, it is unclear what their strengths and weaknesses are in regards to biological data.
