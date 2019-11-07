@@ -50,10 +50,10 @@ rank: 1
 
 ###  **Title:** Lyra 2.0: furtherance of existing template based prediction
 
-###  **Title:** Developing a similarity metric for complementarity (Taken)
+###  **Title:** Developing a similarity metric for complementarity determining region 3 (CDR3) of T cell receptor ß (TCR ß) based on 3D conformational predictions
 
 ###  **Title:** Diversity of TCR repertoires: state of the art and prospects
 
-### **Title:** Embeddings for the immune system
+###  **Title:** Machine Learning for pairing structural data
 
-### **Title:** Chronic lymphatic leukemia
+### **Title:** Embeddings for the immune system

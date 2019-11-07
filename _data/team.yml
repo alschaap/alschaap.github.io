@@ -58,12 +58,12 @@
 
   photo: team/Mina_img.jpg
 
-- name: XXX
-  is_pi: False
-  is_current: True
-  position: Research Associate
-  researchgate: XXX
-  scholar: XXX
-  bio: >
-    XXX
-  photo: team/xxx
+#- name: ZZZ
+#  is_pi: False
+#  is_current: True
+#  position: Research Associate
+#  researchgate: ZZZ
+#  scholar: ZZZ
+#  bio: >
+#    ZZZ
+#  photo: team/xxx
