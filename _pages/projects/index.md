@@ -36,32 +36,24 @@ rank: 1
 
 ## **Student Projects**
 
-###  **Title:** Deep Learning
-
-###  **Title:** Benchmarking neoepitope prediction methods
-
-
-#### **Aim:** The aim of this project is to
-
-
-#### **Impact:**
-
-
-### **Title:** Embedding the immune system
-
- **Aim:** The aim of this project is to
-
-
-**Impact:**
-
-
 ### **Title:** The role and effects of partitioning
 
 #### **Aim:** The aim of this project is to identify which partitioning method is the most meaningful for data redundancy and least computationally expensive to obtain the best possible predictions when using Deep Learning.
 
-In sequence analysis, clustering is used to group homologous sequences into gene or protein families.
-#### **The project:** The student will be
+#### **The project:** The student will be working with different partitioning methods to study their effect and role in Deep Learning predictions.
 
+###  **Title:** Benchmarking neoepitope prediction methods
 
-#### **Aim:**  
-Many partitioning methods currently exist, however, it is unclear what their strengths and weaknesses are in regards to biological data.
+###  **Title:** Deep Learning for CDR3 structural feature predictions
+
+###  **Title:** The effect of checkpoint inhibitor therapy on lymphocyte repertoire composition
+
+###  **Title:** Lyra 2.0: furtherance of existing template based prediction
+
+###  **Title:** Developing a similarity metric for complementarity (Taken)
+
+###  **Title:** Diversity of TCR repertoires: state of the art and prospects
+
+### **Title:** Embeddings for the immune system
+
+### **Title:** Chronic lymphatic leukemia
