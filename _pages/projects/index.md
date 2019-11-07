@@ -39,7 +39,7 @@ rank: 1
 ###  **Title:** Benchmarking neoepitope predictions methods
 
 
-#### **Aim:** The aim of this project is to 
+#### **Aim:** The aim of this project is to
 
 
 #### **Impact:**
@@ -54,6 +54,10 @@ rank: 1
 
 
 ### **Title:** Benchmarking partitioning methods
+
+#### **Aim:** The aim of this project is to identify which partitioning method is the most meaningful for data redundancy and least computationally expensive to obtain the best possible predictions when using Deep Learning.
+
+In sequence analysis, clustering is used to group homologous sequences into gene or protein families.
 
 
 ### **Title:** The role and effects of partitioning
